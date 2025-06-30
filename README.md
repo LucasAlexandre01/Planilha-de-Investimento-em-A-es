@@ -25,6 +25,15 @@ Esta planilha foi desenvolvida para simular uma carteira de ações com base em 
 
 ---
 
+## 📷 Capturas de Tela
+
+Imagens disponíveis na pasta `/images`:
+
+- `dashboard.png`: visão geral da área de simulação.
+- `resultados.png`: retorno esperado da carteira.
+
+---
+
 ## 👤 Autor
 
 **Lucas Alexandre**
